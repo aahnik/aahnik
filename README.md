@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**aahnik/aahnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Places where my work lives
 
-Here are some ideas to get you started:
+- [Projects on GitHub](https://github.com/aahnik?tab=repositories)
+- [Notebooks on Jovian](https://jovian.ai/aahnik/notebooks)
+- [Misc on GitHub Gists](https://gist.github.com/aahnik)
+- [Articles on Dev.to](https://dev.to/aahnik)
+- [Videos on YouTube](https://www.youtube.com/c/aahnik)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ways to contact me
+
+- Formal via email daw@aahnik.dev
+- Hangout on [Telegram](https://telegram.me/aahniks_code_discussion) or [Discord](https://discord.gg/PvcMKHWTDs)
+
+My Site [aahnik.dev](https://aahnik.dev)
