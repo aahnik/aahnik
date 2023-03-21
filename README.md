@@ -3,7 +3,6 @@
 Places where my work lives
 
 - [Projects on GitHub](https://github.com/aahnik?tab=repositories)
-- [Notebooks on Jovian](https://jovian.ai/aahnik/notebooks)
 - [Misc on GitHub Gists](https://gist.github.com/aahnik)
 - [Articles on Dev.to](https://dev.to/aahnik)
 - [Videos on YouTube](https://www.youtube.com/c/aahnik)
